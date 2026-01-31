@@ -1,4 +1,4 @@
-<h1>Data Warehouse and Analytics Project</h1>
+<h1>Data Warehouse and Analytics Project</h1>h1>
 
 Welcome to the Data Warehouse and Analytics Project repository! 
 
